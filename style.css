@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(141, 235, 235);
+    margin: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-emphasis-color: red;
+    color: brown;
+}
+
+#title {
+    text-align: center;
+    text-shadow: 5px 5px 10px white;
+    font-size: 7vh;
+}
+
+img {
+    display: inline-flexbox;
+    max-width: 500px;
+    height: auto;
+    /* border-radius: 50%; */
+    margin-left: auto;
+    margin-right: auto;
+    border: 50px;
+    border-color: white;
+
+}
+
+#caption {
+    font-size: 17px;
+    font-family: Gill Sans;
+    color: black;
+}
+
+#tribute-link {
+    text-decoration: none;
+    color: black;
+}
+
+#caption {
+    font-size: 17px;
+    font-family: Gill Sans;
+    color: black;
+}
+
+img:hover {
+    /* box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.66); */
+    /* transform: scaleX(-1); */
+}
